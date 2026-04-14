@@ -1,0 +1,10 @@
+119000 Player 1
+84250 Player 1
+72000 Player 1
+71200 Player 1
+67850 Player 1
+48500 Player 1
+4250 Player 1
+3250 Player 1
+2900 null
+2000 Player 1
